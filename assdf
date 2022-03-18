@@ -2,4 +2,4 @@ local player = game.Players.LocalPlayer
 local char = player.CharacterAdded:wait()
 local h = char.Humanoid
  
-h.WalkSpeed = 0
+h.WalkSpeed = 999999999999999999999999999999999999
